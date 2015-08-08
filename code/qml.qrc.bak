@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainForm.ui.qml</file>
+        <file>innerhole.qml</file>
+        <file>Auto.qml</file>
+        <file>Button.qml</file>
+        <file>Ctlmenu.qml</file>
+        <file>Devset.qml</file>
+        <file>Helpfile.qml</file>
+        <file>Label.qml</file>
+        <file>Manual.qml</file>
+        <file>Monitor.qml</file>
+        <file>Rootsheet.qml</file>
+        <file>Warncheck.qml</file>
+        <file>devset/Devset_2.qml</file>
+        <file>devset/Devset_3.qml</file>
+        <file>helpfile/Helpfile_1.qml</file>
+        <file>helpfile/Helpfile_2.qml</file>
+        <file>helpfile/Helpfile_3.qml</file>
+        <file>monitor/Monitor_1.qml</file>
+        <file>monitor/Monitor_2.qml</file>
+        <file>monitor/Monitor_3.qml</file>
+        <file>ptsrc/arrow.png</file>
+        <file>ptsrc/sdc.png</file>
+        <file>warncheck/Warncheck_1.qml</file>
+        <file>warncheck/Warncheck_2.qml</file>
+        <file>warncheck/Warncheck_3.qml</file>
+        <file>main.qml</file>ß
+        <file>Devsetlearn.qml</file>
+        <file>ComboBoxcust.qml</file>
+        <file>Labelcust.qml</file>
+        <file>Countset.qml</file>
+        <file>Semiauto.qml</file>
+    </qresource>
+</RCC>
